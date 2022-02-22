@@ -2,7 +2,7 @@ package petstore
 
 import (
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
-	sdk "github.com/scottwinkler/go-petstore"
+	sdk "github.com/TyunTech/go-petstore"
 )
 
 func resourcePSPet() *schema.Resource {

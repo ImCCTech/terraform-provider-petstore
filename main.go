@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/TyunTech/terraform-provider-petstore/petstore"
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 	"github.com/hashicorp/terraform-plugin-sdk/terraform"
-	"github.com/scottwinkler/terraform-provider-petstore/petstore"
 )
 
 func main() {
