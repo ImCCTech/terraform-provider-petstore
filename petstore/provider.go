@@ -5,7 +5,7 @@ import (
 
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/terraform"
-	sdk "github.com/TyunTech/go-petstore"
+	sdk "github.com/ImCCTech/go-petstore"
 )
 
 func Provider() terraform.ResourceProvider {
